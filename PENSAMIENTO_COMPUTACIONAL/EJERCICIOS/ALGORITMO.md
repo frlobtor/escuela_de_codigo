@@ -30,3 +30,10 @@ Algoritmo para ir al trabajo
 
 
 # Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
+
+#inicio
+#Declarar (precio inicial, precio incrementado, porcentaje de incremento del producto)
+#Ingresar calores (precio inicial, precio incrementado)
+#Porcentaje de incremento del producto (Diferencia entre precio 2 y precio 1 x 100 entre precio 1)
+#Mostrar
+#fin
