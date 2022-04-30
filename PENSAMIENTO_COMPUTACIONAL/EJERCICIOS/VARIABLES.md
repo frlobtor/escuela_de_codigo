@@ -2,7 +2,7 @@
 ¿Qué tipo de dato debe tener una variable para representar la calificación promedio de un
 curso?
 
-flotante
+numérica
 
 numerica/ flotante
 
@@ -17,11 +17,11 @@ alfanumérica
 
 ¿Qué tipo de dato debe tener una variable para registrar si está lloviendo o no?
 
-buleano
+logica
 
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
 
-contador
+numérica
 
 [Regresar al menu princiopal](https://github.com/escuelaDeCodigoMargaritaMaza/escuela_de_codigo/tree/main/PENSAMIENTO_COMPUTACIONAL)
