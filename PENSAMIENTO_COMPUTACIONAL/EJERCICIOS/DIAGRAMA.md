@@ -7,19 +7,19 @@
 
 #inicio
 
-#declarar (metros, yardas, resultado)float
+#declarar (mts, yrd, res)float
 
-#mostrar ("ingresa el número en metros")
+#mostrar ("ingresa el número de metros")
 
-#asignar (metros)
+#asignar (mts)
 
-#mostrar ("ingresa el número en yardas")
+#mostrar ("ingresa el número de yardas")
 
-#asignar (yardas)
+#asignar (yrd)
 
-#resultado= metros*yardas
+#resultado= mts*yardas
 
-#mostrar ("el número en metros", metros, "convertido en yardas", yardas, "es", res)
+#mostrar ("el número de metros", mts, "convertido en yardas", yrd, "es", res)
 
 #fin
       
